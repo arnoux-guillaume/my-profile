@@ -1,0 +1,68 @@
+
+body {
+    background: rgb(240 240 240);
+    color: rgb(30 30 30);
+    font-family: courier;
+    font-size: 18px;
+}
+
+a{text-decoration: none;
+  color: rgb(90 90 90);}
+
+h1{color:red;}
+
+h2{color: green; }
+
+a:hover {color: red;}
+
+
+	
+
+	
+div{  
+
+background: : rgb(90 90 90);
+border: 1px solid grey;
+margin: 10px;
+border-radius: 10px;
+
+
+}
+
+#banner div{
+
+background: : rgb(90 90 90);
+border: 1px solid grey;
+margin: 10px;
+border-radius: 10px;
+}
+
+#banner2{
+
+background: : rgb(90 90 90);
+border: 1px solid grey;
+margin: 10px;
+border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+}
+	width: 1280px;
+	height: 250px;
+	padding: 30px;
+	margin: 50 auto;
+	border-radius: 5px;
+	box-shadow: 0 15px 35px rgba(50 50 93 .1)
+	
+padding: 20px;
+	margin: 50 auto;
+	border-radius: 5px;
+	box-shadow: 0 15px 35px rgba(50 50 93 .1)
+	width: 1200px;
+	height: 250px;
